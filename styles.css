@@ -1,0 +1,19 @@
+/* Ajoutez du style CSS pour les couleurs des réponses correctes et incorrectes */
+.correct { color: green; }
+.incorrect { color: red; }
+
+/* Ajoutez du style CSS pour le message de félicitations */
+#alert {
+  text-align: center; /* Centre le texte horizontalement */
+  font-size: 36px; /* Taille du texte en gros caractères */
+}
+
+/* Ajoutez du style CSS pour le titre du message de félicitations */
+.alert-title {
+  color: green; /* Couleur verte pour le titre du message de félicitations */
+}
+
+/* Ajoutez du style CSS pour le bouton Check */
+button {
+  margin-top: 20px; /* Ajoute un espace entre le formulaire et le bouton Check */
+}
