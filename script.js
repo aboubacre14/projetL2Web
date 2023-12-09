@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function () {
     // Ajoutez un écouteur d'événements au formulaire
-    document.getElementById('quiz-form').addEventListener('submit', function (event) {
+    document.getElementById('qcm-form').addEventListener('submit', function (event) {
       event.preventDefault(); // Empêche l'envoi du formulaire
 
       // Sélectionnez toutes les questions
