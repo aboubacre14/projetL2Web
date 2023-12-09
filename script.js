@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function () {
+    document.addEventListener('DOMContentLoaded', function () {
     // Ajoutez un écouteur d'événements au formulaire
     document.getElementById('qcm-form').addEventListener('submit', function (event) {
       event.preventDefault(); // Empêche l'envoi du formulaire
